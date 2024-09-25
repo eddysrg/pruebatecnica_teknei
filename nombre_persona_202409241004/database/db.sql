@@ -1,0 +1,1 @@
+CREATE TABLE persona (id SERIAL PRIMARY KEY, nombre VARCHAR(50), edad INT);
